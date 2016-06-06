@@ -140,6 +140,37 @@ iframe{
   width: 100%;
   height: 1000px;
 }
+.flick{ margin-left: 100px;
+  margin-top: 50px;
+  width: 75%;
+}
+.flick:nth-child(n+2) {
+      display: none;
+}
+.textmolen{
+  float: right;
+}
+.textmolen:nth-child(n+2) {
+      display: none;
+}
+.slidetext{ height: 660px;
+  margin-top: -100px;
+  background-color: rgba(95, 209, 91, 1);
+  width: 41%;
+  float: left;
+  color: white;
+}
+.slides{ float: left;
+  height: 660px;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 59%;
+  margin-top: -100px;
+}
+.beamers{
+  float: left;
+  width: 60%;
+  margin-left: 20%;
+}
 .filmblok{
   float: left;
   width: 50%;
@@ -240,12 +271,7 @@ h3{
   margin-top: 75px;
   float: right;
 }
-.slides{
-  height: 660px;
-  background-color: rgba(0, 0, 0, 0.5);
-  width: 100%;
-  margin-top: -100px;
-}
+
 .sterretjes{
   position: absolute;
   left: 0px;
