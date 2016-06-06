@@ -46,7 +46,8 @@ iframe{
   width: 60%;
   margin-top: -500px;
   height: 500px;
-  background-image: url("testlocatie1.2.jpg");
+  background-image: url("storeoutside.png");
+  background-position: center;
   background-size: cover;
   -webkit-clip-path: polygon(8.25% 0%, 100% 0%, 100% 100%, 0% 100%);
   transition: 0.5s;
