@@ -64,7 +64,7 @@ iframe{
   float: left;
   width: 65%;
   height: 500px;
-  background-image: url("storeinside.jpg");
+  background-image: url("storeinside3.jpg");
   background-size: cover;
 
   -webkit-clip-path: polygon(0% 0%, 100% 0%, 92.5% 100%, 0% 100%);
